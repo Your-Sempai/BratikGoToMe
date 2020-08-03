@@ -1,1 +1,1 @@
-worker: python3 MainBot.py
+urgentworker: python3 MainBot.py
