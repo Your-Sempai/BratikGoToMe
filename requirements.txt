@@ -1,1 +1,1 @@
-bot:run MainBot.py
+bot:python3.6 MainBot.py
